@@ -1,0 +1,34 @@
+{
+  "albums": [
+    {
+      "folder": "ncs",
+      "title": "Sleepy Beats",
+      "description": "Chill lofi music to help you relax and sleep."
+    },
+    {
+      "folder": "cs",
+      "title": "Happy Hits",
+      "description": "Feel-good songs to brighten your day."
+    },
+    {
+        "folder": "Funky_(mood)",
+        "title": "Go Funky",
+        "description": "Lets go Funky"
+    },
+    {
+        "folder": "Love_(mood)",
+        "title": "Love Songs",
+        "description": "Love is in the air, everywhere you look around."
+    }
+  ],
+  "artists": [
+    {
+      "name": "Karan Aujla",
+      "folder": "Karan aujla"
+    },
+    {
+      "name": "Diljit Dosanjh",
+      "folder": "Diljit"
+    }
+  ]
+}
